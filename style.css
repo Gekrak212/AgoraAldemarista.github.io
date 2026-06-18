@@ -431,7 +431,7 @@ footer {
     background:
     linear-gradient(rgba(0,0,0,.5),
     rgba(0,0,0,.5)),
-    url("imagenes/Banner/quienes-somos-banner.webp");
+    url("Banner/quienes-somos-banner.webp");
 
     background-size: cover;
     background-position: center;
@@ -628,7 +628,7 @@ footer {
     rgba(0,0,0,.6),
     rgba(0,0,0,.7)
     ),
-    url("imagenes/Banner/inicio-banner.jpeg");
+    url("Banner/inicio-banner.jpeg");
 
     background-size:cover;
     background-position:center;
@@ -775,7 +775,7 @@ footer {
     rgba(0,0,0,.5),
     rgba(0,0,0,.7)
     ),
-    url("imagenes/Banner/reels-baner.jpeg");
+    url("Banner/reels-baner.jpeg");
 
     background-size:cover;
     background-position:center;
